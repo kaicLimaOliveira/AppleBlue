@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Clone o projeto**
 
 ```bash
-  gh repo clone kaicLimaOliveira/Apple-Blue
+  gh repo clone kaicLimaOliveira/AppleBlue
 
 ```
   
